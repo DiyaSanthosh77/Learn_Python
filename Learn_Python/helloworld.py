@@ -1,0 +1,8 @@
+print("hello world")
+print("hello")
+print("world")
+print("Hello",end="")
+print("world")
+print("hello",end="-")
+print("world")
+print("hello",5,"world")
